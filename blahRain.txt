@@ -1,0 +1,327 @@
+2018-12-17 15:50:34.584985
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:38.575474
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:39.744822
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:40.118605
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:40.485408
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:48.382005
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:48.726322
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:53.173061
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:56.497239
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:56.821856
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:57.135153
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:57.478076
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:57.841020
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:58.133462
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:53:58.516898
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:54:07.176351
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:54:07.852517
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:54:08.138938
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:54:08.737580
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:35.964427
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:36.147000
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:36.277570
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:36.463691
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:36.780867
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:36.930907
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:37.104503
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:37.259262
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:37.731541
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:37.896817
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:38.063375
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:38.222362
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:38.436735
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:38.598477
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:38.773890
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:38.939312
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:39.127276
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:39.299518
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:39.497361
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 15:57:47.138203
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 16:54:29.589939
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 16:54:30.505068
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 16:58:56.413969
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 16:58:56.655861
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 16:58:56.954072
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 16:58:57.222844
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 18:20:20.375429
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
+17.0
+17.0
+2018-12-17 18:20:20.799993
+Waiting for falling edge on PIN 27...
+
+Falling edge detected. Now your program can continue with
+whatever was waiting for a button press.
