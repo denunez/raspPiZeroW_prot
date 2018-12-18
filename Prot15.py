@@ -52,22 +52,22 @@ for i in range(3):
 
 a = []
 try:
-    prev_data = open('datalog.csv','r')
+    prev_data = open('datalog2.csv','r')
     r = csv.reader(prev_data,delimiter=',')
 except IOError:
-    new_data = open('datalog.csv','w')
+    new_data = open('datalog2.csv','w')
     f = csv.writer(new_data)
     h = ['UTS','Temp.','Hum.','WD','wd','LWSR','Index Br.','Risk Br.','CISOi','SPORn','RIS1','RIS2','RIS3','SEV1','SEV2','SEV3','tdet','tdet2','thum','tstart','tstop']
     f.writerow(h)
     x0 = [hract,25,50,0,0,11,-2.6,'No',0,0,0,0,0,0,0,0,0,0,0,tstart,0]
     f.writerow(x0)
     new_data.close()
-    prev_data = open('datalog.csv','r')
+    prev_data = open('datalog2.csv','r')
     r = csv.reader(prev_data,delimiter=',')
 for row in r:
     a.append(row)
 prev_data.close()
-ap_data = open('datalog.csv','a')
+ap_data = open('datalog2.csv','a')
 w = csv.writer(ap_data)
 
 # Open file with rain measurements
